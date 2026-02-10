@@ -59,9 +59,3 @@ This is a classic **Natural Language Processing (NLP)** problem and is widely us
 
 These metrics help evaluate model performance, especially for **imbalanced datasets**.
 
----
-
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/likhita123420/spam-ham_detection.git
